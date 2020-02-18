@@ -2,16 +2,14 @@
 ## Plantilla para la práctica de Ecosistema (IWVG-ecosystem)
 > Plantilla con Spring básico (API, test) 
 
-## Ecosistema
+## Tecnologías necesarias
 * Java
 * Maven
-* Logs
-* JUnit5
 * IntelliJ
 * GitHub
-* Travis-CI
-* Sonar Cloud
-* Better Code Hub
-* Spring
-* Heroku
-* OpenAPI-Swagger
+
+### Descripción
+Este proyecto pretende ser una plantilla maven para crear un proyecto
+1.- Descomprimir en la carpeta de trabajo.
+2.- Editar el pom.xml y cambiarle el nombre del proyecto.
+3.- Desde IntelliJ, 'import Project', marcar 'Create Project from external model' y elegir 'Maven'.
